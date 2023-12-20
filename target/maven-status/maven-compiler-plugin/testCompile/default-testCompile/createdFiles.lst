@@ -1,0 +1,5 @@
+org\example\Pages\P02_RegisterPage.class
+org\example\stepDefs\Hooks.class
+org\example\stepDefs\D01_SignUP.class
+org\example\Pages\P01_HomePage.class
+org\example\testRunner\runners.class
